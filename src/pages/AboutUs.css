@@ -1,0 +1,13 @@
+.about-us {
+    padding: 20px;
+    text-align: center;
+}
+
+.about-us h2 {
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+.about-us p {
+    font-size: 1.2em;
+}

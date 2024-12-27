@@ -1,0 +1,13 @@
+.video-details {
+    padding: 20px;
+    text-align: center;
+}
+
+.video-details h2 {
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+.video-details p {
+    font-size: 1.2em;
+}

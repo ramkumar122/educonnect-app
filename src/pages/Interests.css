@@ -1,0 +1,8 @@
+.interests-container {
+    background-color: #eaf4fc;
+}
+.form-check-group {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+}

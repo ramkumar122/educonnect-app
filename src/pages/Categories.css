@@ -1,0 +1,19 @@
+.categories {
+    padding: 20px;
+    text-align: center;
+}
+
+.categories ul {
+    list-style: none;
+    padding: 0;
+}
+
+.categories li {
+    margin: 10px 0;
+    font-size: 1.2em;
+    cursor: pointer;
+}
+
+.categories li:hover {
+    color: #0044cc;
+}

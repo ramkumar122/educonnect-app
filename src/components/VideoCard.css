@@ -1,0 +1,17 @@
+.video-card {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.video-card img {
+    max-width: 100%;
+    border-radius: 5px;
+}
+
+.video-card h3 {
+    margin: 10px 0 0;
+    font-size: 1.2em;
+}

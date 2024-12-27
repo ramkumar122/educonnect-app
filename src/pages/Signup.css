@@ -1,0 +1,14 @@
+/* src/pages/Signup.css */
+.signup-container {
+    background-color: #f8f9fa;
+    height: 100vh;
+}
+
+.card {
+    border-radius: 10px;
+}
+
+h3 {
+    font-weight: bold;
+    color: #343a40;
+}
